@@ -1,0 +1,88 @@
+[
+  {
+    "category": "Full Stack Web Development",
+    "title": "OrganiCity",
+    "desc": "Organic food and handmade product themed e-commerce site with certification feature. Developed using Vue, Vuetify, Nuxt.js, Node.js and Express.",
+    "img": "organicity.jpg",
+    "links": [
+      {
+        "label": "Live Site",
+        "link": "https://organicity.herokuapp.com"
+      },
+      {
+        "label": "github",
+        "link": "https://github.com/OrganiCity/organicity_public"
+      }
+    ]
+  },
+  {
+    "category": "Front-End Development",
+    "title": "Portfolio Website",
+    "desc": "A website to present about me. Built using Vue, Vuetify, Nuxt.js.",
+    "links": [
+      {
+        "label": "Live Site",
+        "link": "https://alytarik.github.io"
+      }
+    ]
+  },
+  {
+    "category": "Windows Desktop App",
+    "title": "Switter",
+    "desc": "Socket based social media app with follow and block features. Developed using c# on Windows Forms for windows desktop environment.",
+    "img": "switter.jpg",
+    "links": [
+      {
+        "label": "GitHub",
+        "link": "https://github.com/cs408project19/Switter"
+      }
+    ]
+  },
+  {
+    "category": "Data Analysis",
+    "title": "Song Recommendation System",
+    "desc": "Used the data from spotify containing 175k+ songs with attributes. Developed using Python, pandas, numpy and used KNN algorithm.",
+    "links": [
+      {
+        "label": "github",
+        "link": "https://github.com/kaanatmacaa/spotify_recommendation_system"
+      }
+    ]
+  },
+  {
+    "category": "Algorithm Implementation",
+    "title": "PNG to QOI Converter",
+    "desc": "Implemented a new image format called qoi in C++.",
+    "img": "qoi-logo.png",
+    "links": [
+      {
+        "label": "GitHub",
+        "link": "https://github.com/alytarik/png2qoi"
+      }
+    ]
+  },
+  {
+    "category": "Game Development",
+    "title": "Roll The Ball",
+    "desc": "Casual 2D mobile game. Developed using C# & Unity.",
+    "img": "roll-the-ball.png",
+    "links": [
+      {
+        "label": "Demo Video",
+        "link": "https://www.youtube.com/watch?v=kBMOO_YP8HQ"
+      }
+    ]
+  },
+  {
+    "category": "Game Development",
+    "title": "Sliding Blocks Game",
+    "desc": "Simple puzzle game where you aim to create the big picture. Developed using C# in Unity game engine.",
+    "img": "sliding-blocks.png",
+    "links": [
+      {
+        "label": "Demo",
+        "link": "https://alytarik.github.io/SlidingBlocksGame/"
+      }
+    ]
+  }
+]
