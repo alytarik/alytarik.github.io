@@ -5,18 +5,15 @@ entries:
 
   - title: posts
     post_list:
-      limit: 10
+      limit: 5
       show_more: true
-      show_more_text: archive...
+      show_more_text: see archive...
       show_more_url: archive.html
 
   - title: pages
     entries:
       - title: about
         url: about.html
-      - title: portfolio
-        url: portfolio.html
-
   - title: elsewhere
     entries:
       - title: github

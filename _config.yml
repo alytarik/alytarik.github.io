@@ -1,17 +1,14 @@
 title: alytarik
 author: Ali Tarik
 email: alimirik55@gmail.com
-description: >-
-  stuff i do
-url: "https://alytarik.github.io"
+url: https://alytarik.github.io
 baseurl: ""
-
-lang: en
-timezone:
-
-remote_theme: riggraz/no-style-please
+description: >
+  Notes and writing by Ali Tarik Mirik.
 
 permalink: /:slug.html
+
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto"
@@ -27,11 +24,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - README.md
-  - LICENSE
-  - projects.json
