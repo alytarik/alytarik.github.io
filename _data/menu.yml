@@ -1,0 +1,29 @@
+entries:
+  - title: alytarik
+    entries:
+      - title: stuff i do.
+
+  - title: posts
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: archive...
+      show_more_url: archive.html
+
+  - title: pages
+    entries:
+      - title: about
+        url: about.html
+      - title: portfolio
+        url: portfolio.html
+
+  - title: elsewhere
+    entries:
+      - title: github
+        url: https://github.com/alytarik
+      - title: twitter
+        url: https://twitter.com/alytarik1
+      - title: linkedin
+        url: https://www.linkedin.com/in/alytarik
+      - title: rss
+        url: feed.xml
