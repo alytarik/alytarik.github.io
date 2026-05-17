@@ -4,7 +4,7 @@ email: alimirik55@gmail.com
 url: https://alytarik.github.io
 baseurl: ""
 description: >
-  Notes and writing by Ali Tarik Mirik.
+  my works and observations
 
 permalink: /:slug.html
 
@@ -12,9 +12,9 @@ remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "light"
-  back_home_text: ".."
+  back_home_text: "<--"
   date_format: "%Y-%m-%d"
-  show_description: false
+  show_description: true
   lowercase_titles: true
 
 sass:
